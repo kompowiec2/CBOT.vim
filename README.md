@@ -11,5 +11,4 @@ Afther run CBOT script active syntax from:
 
 if you want auto highlighting, run filetype.vim and add line:
 
-" CBOT
 au BufNewFile,BufRead *.cbot			setf cbot
